@@ -11,9 +11,7 @@ Reusable components (Product, Price)
 Styled with Bootstrap and custom CSS
 
 📁 Project Structure
-bash
-Copy
-Edit
+```
 src/
 │
 ├── components/
@@ -28,6 +26,9 @@ src/
 │
 ├── App.js
 └── index.js
+
+```
+
 🛠️ Technologies Used
 React
 
