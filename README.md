@@ -37,6 +37,8 @@ Bootstrap
 JavaScript (ES6+)
 
 CSS Modules
+
+
 ✨ Future Improvements
 Add-to-cart functionality
 
