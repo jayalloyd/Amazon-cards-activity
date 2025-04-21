@@ -2,7 +2,7 @@
   "name": "cards",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://jayalloyd.github.io/Amazon-cards-activity",
+  "homepage": "https://jayalloyd.github.io/Amazon-cards-activity/",
   "type": "module",
   "scripts": {
     "dev": "vite",
