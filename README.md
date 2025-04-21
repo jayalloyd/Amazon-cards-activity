@@ -1,3 +1,55 @@
+Product Showcase App
+A simple React application that displays a list of tech products (think Amazon-style)  with descriptions and dynamic pricing. Built with React, Bootstrap, and custom components.
+
+🚀 Features
+Product cards with titles and descriptions
+
+Old vs. new pricing display
+
+Reusable components (Product, Price)
+
+Styled with Bootstrap and custom CSS
+
+📁 Project Structure
+```
+src/
+│
+├── components/
+│   ├── Product.js         # Displays individual product info
+│   ├── ProductTab.js      # Renders list of products
+│   ├── Price.js           # Displays old/new price
+│
+├── styles/
+│   ├── Product.css
+│   ├── Price.css
+│   └── ProductTab.css
+│
+├── App.js
+└── index.js
+
+```
+
+🛠️ Technologies Used
+React
+
+Bootstrap
+
+JavaScript (ES6+)
+
+CSS Modules
+
+
+✨ Future Improvements
+Add-to-cart functionality
+
+Product images
+
+Filtering/sorting
+
+API integration
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
