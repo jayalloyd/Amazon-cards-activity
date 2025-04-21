@@ -1,3 +1,8 @@
 .card-content{
     background-color: aqua;
 }
+.card-image {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+  
