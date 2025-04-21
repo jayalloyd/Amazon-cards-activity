@@ -1,6 +1,6 @@
 Product Showcase App
 A simple React application that displays a list of tech products (think Amazon-style)  with descriptions and dynamic pricing. Built with React, Bootstrap, and custom components.
-
+Live Demo: https://jayalloyd.github.io/Amazon-cards-activity/
 🚀 Features
 Product cards with titles and descriptions
 
